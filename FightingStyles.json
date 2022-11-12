@@ -1,0 +1,412 @@
+{
+  "Sheet1": [
+    {
+      "Style": "Agent",
+      "Strike": "MS2",
+      "Block": "RS2",
+      "Shoot": "RW2",
+      "Dodge": "RS2",
+      "Zap": "CW2"
+    },
+    {
+      "Style": "Analyzer",
+      "Strike": "MW3",
+      "Block": "SW2",
+      "Shoot": "RS2",
+      "Dodge": "RW2",
+      "Zap": "CW1"
+    },
+    {
+      "Style": "Angel",
+      "Strike": "MS3",
+      "Block": "PS3",
+      "Shoot": "PW1",
+      "Dodge": "PS0",
+      "Zap": "CP3"
+    },
+    {
+      "Style": "Archer",
+      "Strike": "MS1",
+      "Block": "RS2",
+      "Shoot": "RS4",
+      "Dodge": "RS3",
+      "Zap": "PW0"
+    },
+    {
+      "Style": "Beast",
+      "Strike": "MS5",
+      "Block": "RT2",
+      "Shoot": "MR1",
+      "Dodge": "RS2",
+      "Zap": "PT0"
+    },
+    {
+      "Style": "Blaster",
+      "Strike": "MS1",
+      "Block": "RS1",
+      "Shoot": "PS4",
+      "Dodge": "RW3",
+      "Zap": "PW1"
+    },
+    {
+      "Style": "Blizzard",
+      "Strike": "MS2",
+      "Block": "ST2",
+      "Shoot": "RS3",
+      "Dodge": "RS2",
+      "Zap": "PT1"
+    },
+    {
+      "Style": "Bubbler",
+      "Strike": "PW2",
+      "Block": "PS3",
+      "Shoot": "PR2",
+      "Dodge": "RW2",
+      "Zap": "CP1"
+    },
+    {
+      "Style": "Bullet",
+      "Strike": "RS4",
+      "Block": "MS2",
+      "Shoot": "RS2",
+      "Dodge": "RS2",
+      "Zap": "CP0"
+    },
+    {
+      "Style": "Bulwark",
+      "Strike": "MS4",
+      "Block": "ST3",
+      "Shoot": "MS2",
+      "Dodge": "RS0",
+      "Zap": "PT1"
+    },
+    {
+      "Style": "Clear Head",
+      "Strike": "MW0",
+      "Block": "RW2",
+      "Shoot": "PR3",
+      "Dodge": "RS3",
+      "Zap": "PR2"
+    },
+    {
+      "Style": "Cyclops",
+      "Strike": "MS2",
+      "Block": "MS2",
+      "Shoot": "PR4",
+      "Dodge": "RS2",
+      "Zap": "CR0"
+    },
+    {
+      "Style": "Defender",
+      "Strike": "MS2",
+      "Block": "RT3",
+      "Shoot": "RS2",
+      "Dodge": "RS1",
+      "Zap": "PT2"
+    },
+    {
+      "Style": "Devil",
+      "Strike": "PR2",
+      "Block": "RS0",
+      "Shoot": "RW2",
+      "Dodge": "RS3",
+      "Zap": "CW3"
+    },
+    {
+      "Style": "Empath",
+      "Strike": "PS0",
+      "Block": "CR1",
+      "Shoot": "RS1",
+      "Dodge": "CW3",
+      "Zap": "CP5"
+    },
+    {
+      "Style": "Field General",
+      "Strike": "MW1",
+      "Block": "RW3",
+      "Shoot": "RS2",
+      "Dodge": "RW2",
+      "Zap": "CW2"
+    },
+    {
+      "Style": "Flexible",
+      "Strike": "MR3",
+      "Block": "MS2",
+      "Shoot": "RS2",
+      "Dodge": "RS3",
+      "Zap": "CP0"
+    },
+    {
+      "Style": "Flicker",
+      "Strike": "MS2",
+      "Block": "RS3",
+      "Shoot": "RS2",
+      "Dodge": "RS3",
+      "Zap": "CP0"
+    },
+    {
+      "Style": "Grappler",
+      "Strike": "MS4",
+      "Block": "MS4",
+      "Shoot": "RS0",
+      "Dodge": "RS2",
+      "Zap": "CP0"
+    },
+    {
+      "Style": "Hive Mind",
+      "Strike": "MW2",
+      "Block": "RW2",
+      "Shoot": "RS2",
+      "Dodge": "RW2",
+      "Zap": "PW2"
+    },
+    {
+      "Style": "Hunting Cat",
+      "Strike": "MR4",
+      "Block": "RS1",
+      "Shoot": "RW1",
+      "Dodge": "RW3",
+      "Zap": "PW1"
+    },
+    {
+      "Style": "Hurler",
+      "Strike": "MS3",
+      "Block": "MS2",
+      "Shoot": "MS3",
+      "Dodge": "RS2",
+      "Zap": "PT0"
+    },
+    {
+      "Style": "Imp",
+      "Strike": "CP2",
+      "Block": "RS3",
+      "Shoot": "PR0",
+      "Dodge": "CS3",
+      "Zap": "CP2"
+    },
+    {
+      "Style": "Juggernaut",
+      "Strike": "MS2",
+      "Block": "MT4",
+      "Shoot": "RS0",
+      "Dodge": "RT2",
+      "Zap": "PT2"
+    },
+    {
+      "Style": "Luchador",
+      "Strike": "CM3",
+      "Block": "CS3",
+      "Shoot": "CR0",
+      "Dodge": "RS2",
+      "Zap": "CP2"
+    },
+    {
+      "Style": "Lucky",
+      "Strike": "CP2",
+      "Block": "SW2",
+      "Shoot": "PW2",
+      "Dodge": "RW2",
+      "Zap": "CW2"
+    },
+    {
+      "Style": "Mad Doctor",
+      "Strike": "MW0",
+      "Block": "RW2",
+      "Shoot": "RW3",
+      "Dodge": "RS3",
+      "Zap": "PW2"
+    },
+    {
+      "Style": "Martial Artist",
+      "Strike": "MS3",
+      "Block": "RS3",
+      "Shoot": "RW1",
+      "Dodge": "RS2",
+      "Zap": "CW1"
+    },
+    {
+      "Style": "Martial Arts",
+      "Strike": "MS3",
+      "Block": "RS3",
+      "Shoot": "RW1",
+      "Dodge": "RS2",
+      "Zap": "CW1"
+    },
+    {
+      "Style": "Mastermind",
+      "Strike": "MW0",
+      "Block": "SW2",
+      "Shoot": "RS2",
+      "Dodge": "RW3",
+      "Zap": "CW3"
+    },
+    {
+      "Style": "Mentalist",
+      "Strike": "MS0",
+      "Block": "RW1",
+      "Shoot": "SW2",
+      "Dodge": "RW3",
+      "Zap": "PW4"
+    },
+    {
+      "Style": "Nimble",
+      "Strike": "RS3",
+      "Block": "MS2",
+      "Shoot": "RS1",
+      "Dodge": "RW4",
+      "Zap": "CR0"
+    },
+    {
+      "Style": "Oaf",
+      "Strike": "MS3",
+      "Block": "MT3",
+      "Shoot": "RS2",
+      "Dodge": "RT2",
+      "Zap": "TW0"
+    },
+    {
+      "Style": "Predictor",
+      "Strike": "MS0",
+      "Block": "SW1",
+      "Shoot": "RW3",
+      "Dodge": "RW3",
+      "Zap": "CW3"
+    },
+    {
+      "Style": "Psychic",
+      "Strike": "MP0",
+      "Block": "CS1",
+      "Shoot": "RS1",
+      "Dodge": "CR3",
+      "Zap": "CP5"
+    },
+    {
+      "Style": "Reverb",
+      "Strike": "MS3",
+      "Block": "MP4",
+      "Shoot": "PS1",
+      "Dodge": "RS2",
+      "Zap": "CP0"
+    },
+    {
+      "Style": "Shadow",
+      "Strike": "MR2",
+      "Block": "RS0",
+      "Shoot": "PR2",
+      "Dodge": "PR3",
+      "Zap": "PW3"
+    },
+    {
+      "Style": "Shriek",
+      "Strike": "MS0",
+      "Block": "MS1",
+      "Shoot": "PS5",
+      "Dodge": "PR3",
+      "Zap": "CP1"
+    },
+    {
+      "Style": "Skirmisher",
+      "Strike": "MS3",
+      "Block": "RS2",
+      "Shoot": "RS3",
+      "Dodge": "RW2",
+      "Zap": "PW0"
+    },
+    {
+      "Style": "Skirmisher ",
+      "Strike": "MS3",
+      "Block": "RS2",
+      "Shoot": "RS3",
+      "Dodge": "RW2",
+      "Zap": "PW0"
+    },
+    {
+      "Style": "Speedster",
+      "Strike": "MR3",
+      "Block": "MS1",
+      "Shoot": "RS1",
+      "Dodge": "RS5",
+      "Zap": "CP0"
+    },
+    {
+      "Style": "Spirit",
+      "Strike": "RS0",
+      "Block": "RS2",
+      "Shoot": "PS2",
+      "Dodge": "RW3",
+      "Zap": "CP3"
+    },
+    {
+      "Style": "Stormer",
+      "Strike": "PS3",
+      "Block": "PT3",
+      "Shoot": "PS2",
+      "Dodge": "PR2",
+      "Zap": "CR0"
+    },
+    {
+      "Style": "Telekinetic",
+      "Strike": "MP0",
+      "Block": "RS2",
+      "Shoot": "PS4",
+      "Dodge": "PR2",
+      "Zap": "CP2"
+    },
+    {
+      "Style": "Teleporter",
+      "Strike": "MR2",
+      "Block": "RS0",
+      "Shoot": "RW4",
+      "Dodge": "RW3",
+      "Zap": "PW1"
+    },
+    {
+      "Style": "Tempest",
+      "Strike": "MS0",
+      "Block": "MR2",
+      "Shoot": "PS4",
+      "Dodge": "RS3",
+      "Zap": "CP1"
+    },
+    {
+      "Style": "Titan",
+      "Strike": "MP4",
+      "Block": "MT3",
+      "Shoot": "PR2",
+      "Dodge": "RT0",
+      "Zap": "CP1"
+    },
+    {
+      "Style": "Touchy",
+      "Strike": "SW3",
+      "Block": "RS2",
+      "Shoot": "RW1",
+      "Dodge": "RS2",
+      "Zap": "CP1"
+    },
+    {
+      "Style": "Trickster",
+      "Strike": "MR1",
+      "Block": "SW2",
+      "Shoot": "SW2",
+      "Dodge": "CR3",
+      "Zap": "CW2"
+    },
+    {
+      "Style": "Undead",
+      "Strike": "MS3",
+      "Block": "MT3",
+      "Shoot": "RS2",
+      "Dodge": "RS2",
+      "Zap": "PT0"
+    },
+    {
+      "Style": "Wily",
+      "Strike": "MW1",
+      "Block": "RS2",
+      "Shoot": "RW2",
+      "Dodge": "SW3",
+      "Zap": "CW2"
+    }
+  ]
+}
